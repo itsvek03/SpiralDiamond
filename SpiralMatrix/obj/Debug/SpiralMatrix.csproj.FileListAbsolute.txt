@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DiamondPattern\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\HP\source\repos\DiamondPattern\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\HP\source\repos\DiamondPattern\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\HP\source\repos\DiamondPattern\SpiralMatrix\obj\Debug\SpiralMatrix.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\DiamondPattern\SpiralMatrix\obj\Debug\SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DiamondPattern\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\HP\source\repos\DiamondPattern\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

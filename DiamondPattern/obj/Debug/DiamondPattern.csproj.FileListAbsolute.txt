@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DiamondPattern\DiamondPattern\bin\Debug\DiamondPattern.exe.config
+C:\Users\HP\source\repos\DiamondPattern\DiamondPattern\bin\Debug\DiamondPattern.exe
+C:\Users\HP\source\repos\DiamondPattern\DiamondPattern\bin\Debug\DiamondPattern.pdb
+C:\Users\HP\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.exe
+C:\Users\HP\source\repos\DiamondPattern\DiamondPattern\obj\Debug\DiamondPattern.pdb
